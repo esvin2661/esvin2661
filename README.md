@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on a portfolio project.<br>I have a keen interest in computational neuroscience and artificial intelligence.<br>I am open to collaborating on open-source projects.<br><br><br>
+I am currently building SafeRoute a safety navegation system <br>I have a keen interest in computational neuroscience and artificial intelligence.<br>I am open to collaborating on open-source projects.<br><br><br>
 
 
 ## 🌐 Socials:
@@ -20,9 +20,6 @@ I am currently working on a portfolio project.<br>I have a keen interest in comp
 
 ---
 [![](https://visitcount.itsvg.in/api?id=esvin2661&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/esvinruiz) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
